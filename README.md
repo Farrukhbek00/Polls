@@ -1,2 +1,3 @@
 # Polls
-Simple polls app 
+Simple polls app
+Updated
